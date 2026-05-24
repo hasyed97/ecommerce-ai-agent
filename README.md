@@ -86,16 +86,3 @@ flowchart LR
   validation --> end_node
   blocked --> end_node
 ```
-
-## Publishing to Git
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: ecommerce LangGraph agent"
-git remote add origin <your-repo-url>
-git branch -M main
-git push -u origin main
-```
-
-Do not commit `.env` — use `.env.example` as the template.
