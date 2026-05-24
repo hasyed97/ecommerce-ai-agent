@@ -104,6 +104,8 @@ When `LANGFUSE_PUBLIC_KEY` and `LANGFUSE_SECRET_KEY` are set, `app/observability
 
 Traces help debug tool selection, latency, and guard/validation outcomes in production-like environments.
 
+![langfuse screenshot](image.png)
+
 ## Configuration reference
 
 See [README.md](../README.md) for environment variables and quick start. Copy `.env.example` to `.env` and never commit `.env` (it is listed in `.gitignore`).
