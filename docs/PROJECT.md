@@ -12,7 +12,7 @@ Customers interact through a **Streamlit** chat UI. The agent can:
 
 Factual data lives in JSON fixtures under `app/data/` (`products.json`, `orders.json`). The LLM is instructed to use tools for facts rather than inventing IDs, prices, or stock levels.
 
-[Sample Case](Ecommerce_AI_Agent.pdf)
+[Sample Case](Ecommerce%20AI%20Agent.pdf)
 
 ## Architecture (LangGraph)
 
