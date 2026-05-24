@@ -83,8 +83,8 @@ flowchart LR
   agent --> tools
   agent --> validation
   tools --> agent
-  validation --> end
-  blocked --> end
+  validation --> end_node
+  blocked --> end_node
 ```
 
 ## Publishing to Git
